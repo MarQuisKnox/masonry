@@ -8,7 +8,7 @@ For complete docs and demos, see [masonry.desandro.com](http://masonry.desandro.
 
 ## Changes
 
-This fork (<a href="https://github.com/MarQuisKnox/masonry">@MarQuisKnox</a>) has these changes:
+This fork (<a href="https://github.com/MarQuisKnox/masonry">@MarQuisKnox</a>) contains the following changes:
 
 * reload() — reload the entire grid
 
