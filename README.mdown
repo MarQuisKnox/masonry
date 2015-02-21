@@ -6,6 +6,13 @@ Masonry works by placing elements in optimal position based on available vertica
 
 For complete docs and demos, see [masonry.desandro.com](http://masonry.desandro.com) or [masonryjs.com](http://masonryjs.com) if you're lazy,
 
+## Changes
+
+This fork (<a href="https://github.com/MarQuisKnox/masonry">@MarQuisKnox</a>) has these changes:
+
+* reload() — reload the entire grid
+
+
 ## Install
 
 A packaged source file includes everything you need to use Masonry.
