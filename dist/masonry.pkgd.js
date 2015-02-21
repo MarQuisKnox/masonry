@@ -1919,6 +1919,11 @@ Outlayer.prototype.reloadItems = function() {
   this.items = this._itemize( this.element.children );
 };
 
+Outlayer.prototype.reload = function() {
+	this._create();
+    this.layout();
+};
+
 
 /**
  * turn elements into Outlayer.Items to be used in layout
@@ -2957,4 +2962,3 @@ if ( typeof define === 'function' && define.amd ) {
 }
 
 })( window );
-
